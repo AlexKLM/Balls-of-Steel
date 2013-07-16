@@ -1,0 +1,12 @@
+//Config file for the simulation server
+
+//friction
+
+friction 0.05
+
+//elasticity
+
+ball_e 0.8
+line_e 0.7
+
+//others
