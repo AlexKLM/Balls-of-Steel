@@ -1,4 +1,4 @@
-Balls-of-Steel
+Physics-sim-and-concurrency
 ==============
 
 This was the Project for a course I have done in the University of Hull, when I was studying in Simulation and Concurrency.
